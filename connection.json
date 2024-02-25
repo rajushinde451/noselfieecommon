@@ -1,4 +1,4 @@
 {
-  "URL":"www.google.com",
-  "SOCKET_URL": "www.facebook.com"
+  "URL":"http://3.110.118.6:8000",
+  "SOCKET_URL": "ws://3.110.118.6:8000/ws"
 }
