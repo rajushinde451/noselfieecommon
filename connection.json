@@ -1,4 +1,4 @@
 {
-  "URL":"http://13.200.205.41:8000",
-  "SOCKET_URL": "ws://13.200.205.41:8000/ws"
+  "URL":"https://no-selfiee-2095828051.ap-south-1.elb.amazonaws.com",
+  "SOCKET_URL": "ws://35.154.1.196:8000/ws"
 }
