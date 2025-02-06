@@ -1,6 +1,6 @@
 {
   "URL":"http://no-selfiee-2095828051.ap-south-1.elb.amazonaws.com",
-  "SOCKET_URL": "ws://13.234.217.70:8000/ws",
+  "SOCKET_URL": "ws://3.110.152.42:8000/ws",
   "DEV_URL":"http://192.168.1.21:8000",
   "DEV_SOCKET_URL": "ws://15.206.164.138:8000/ws"
 }
